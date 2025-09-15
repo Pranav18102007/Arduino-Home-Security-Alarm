@@ -4,9 +4,13 @@ This project is an automatic security alarm.
 
 ## Components:
 -Arduino uno
+
 -Buzzer
+
 -PIR sensor
+
 -Jumper wires + Breadboard
+
 -4 LEDs
 
 
